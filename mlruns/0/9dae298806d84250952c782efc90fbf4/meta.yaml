@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henriquerio/deploycredit/mlruns/0/9dae298806d84250952c782efc90fbf4/artifacts
+end_time: 1654387725156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9dae298806d84250952c782efc90fbf4
+run_uuid: 9dae298806d84250952c782efc90fbf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654387724118
+status: 3
+tags: []
+user_id: henriquerio
